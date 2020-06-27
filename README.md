@@ -78,7 +78,11 @@ class Solution {
 }
 ```
 
+# Complexity :
+Time  : O(M ^ 2 * N)  
+Space : O(M * N)
 
+M is the length of each word and N is the total number of words in the input word list.
 
 # References :
 https://www.youtube.com/watch?v=5iFZP-f40iI
